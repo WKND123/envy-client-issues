@@ -3,7 +3,7 @@ This is the official issue tracker for Envy Client. Please read the FAQ before r
 
 # FAQ
 1) How to open ClickGUI?
-    * The latest version of Envy Client does not have a Click GUI. One might be added later on.
+    * The latest version of Envy Client does not have a Click GUI. One might be added later on. If you want to list all the modules you can use the Tab GUI. Read below on how to use commands.
 2) How to use commands?
     * You can open the console by pressing **`(Tilda key)**  on your keyboard. When the console is opened you can type **_help_** to list all the commands.
 3) Why does Envy Client crash when I start it?
